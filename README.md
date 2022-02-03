@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JennyBeanie
+- 👀 I’m interested in "malicious software & virus hunting"
+- 🌱 I’m currently learning "python"
+- 💞️ I’m looking to collaborate on "python software
